@@ -1,4 +1,4 @@
-# yêu cầu:
+# Yêu cầu:
 ## mysql
 ## JDK version 21.0.2 trở lên
 ## Maven version 3.9.6 trở lên
